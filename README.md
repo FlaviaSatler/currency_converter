@@ -18,7 +18,8 @@ npm install
 
 ## Visual Demo
 
-![](https://imgur.com/a/ZioRik8.gif)
+![Peek 2023-03-04 06-12](https://user-images.githubusercontent.com/20600156/222890213-1413c2f9-d0f0-4728-94e0-d2c762f5d18a.gif)
+
 
 ## Libraries Used:
 
