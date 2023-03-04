@@ -5,7 +5,7 @@ import {
 } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleDoubleRight } from '@fortawesome/free-solid-svg-icons';
-import CurrencyList from './CurrencyList';
+import CurrencyList from '../CurrencyList/CurrencyList';
 import axios from 'axios';
 
 function CurrencyConverter() {
