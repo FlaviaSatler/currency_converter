@@ -27,7 +27,7 @@ Below you can see the libraries used on this application
 | :--------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 | Create react app | Create React App is an officially supported way to create single-page React applications. |
 | Axios | Promise based HTTP client for the browser and node.js |
-| Material-ui | React components for faster and easier web development using Material UI |
+| Bootstrap | The most popular CSS framework for developing responsive and mobile-first websites |
 
 ## Architecture
 
