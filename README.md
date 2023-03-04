@@ -1,8 +1,0 @@
-- React
-- Yarn
-- VITE
-- Axios
-- Font Awesome
-- Bootstrap
-- Testing Library
-- Jest
